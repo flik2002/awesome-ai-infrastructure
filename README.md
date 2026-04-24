@@ -81,6 +81,7 @@
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) - A cloud-based platform for training, deploying, and managing machine learning models.
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - A suite of tools for data science, machine learning, and AI model development.
 - [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
+- [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
 
 ## Learning Resources
 
