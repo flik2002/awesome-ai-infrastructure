@@ -118,3 +118,4 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 *This awesome list contains affiliate links.*
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring dashboard for AI agents and LLMs. [Demo](https://flik2002.github.io/openclaw-monitor-frontend)
