@@ -50,6 +50,7 @@
 - [Airflow](https://airflow.apache.org/) - A platform for orchestrating complex workflows, commonly used in machine learning pipelines.
 - [Metaflow](https://metaflow.org/) - A human-centric framework for building and managing real-life data science projects, developed by Netflix.
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - Real-time AI monitoring dashboard for AI agents and LLMs, built with Vue3 and Node.js.
 ## Data Management
 
 - [Delta Lake](https://delta.io/) - An open-source storage layer that brings reliability to data lakes.
